@@ -1,4 +1,4 @@
-#Science-Graphics
+# Science-Graphics
 Collection of R scripts to generate common science figures directly from the Linux command line.
 
 ## Goal
